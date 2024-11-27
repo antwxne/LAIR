@@ -2,5 +2,10 @@
 name = "lair"
 version = "1.0.0"
 edition = "2021"
+authors = ["antwxne"]
+repository = "https://github.com/antwxne/LAIR"
+readme = "README.md"
+description = "Simple CLI to check a key with Luhn Algorithm"
 
 [dependencies]
+clap = { version = "4.5.21", features = ["derive"] }
