@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rlai"
+name = "lair"
 version = "1.0.0"
